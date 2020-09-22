@@ -4,31 +4,53 @@
       "id": 1,
       "username": "admin",
       "password": "admin",
-      "admin": true
+      "role": "admin"
     },
     {
       "id": 2,
       "username": "benja",
       "password": "benja",
-      "admin": true
+      "role": "admin"
     },
     {
       "id": 3,
       "username": "mariano",
       "password": "mariano",
-      "admin": true
+      "role": "admin"
     },
     {
       "id": 4,
       "username": "user1",
       "password": "user1",
-      "admin": false
+      "role": "user"
     },
     {
       "id": 5,
       "username": "user2",
       "password": "user2",
       "admin": false
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pretium, nulla non vulputate luctus, felis nisi condimentum erat, quis fringilla magna nisi id massa. Aliquam sagittis leo erat."
+    },
+    {
+      "id": 2,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae elementum risus. Suspendisse tincidunt erat id posuere convallis. Nam placerat ex vel sapien blandit accumsan. "
+    },
+    {
+      "id": 3,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec velit ex, fermentum a finibus ut, tempus ut turpis. Donec semper dolor massa, nec porttitor purus laoreet sed."
+    },
+    {
+      "id": 4,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent fringilla bibendum tortor, et tincidunt lacus venenatis in. Morbi vestibulum turpis vel eros lobortis egestas."
+    },
+    {
+      "id": 5,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vel ultricies justo. Praesent urna lorem, vehicula et eros a, faucibus consectetur urna."
     }
   ]
 }
